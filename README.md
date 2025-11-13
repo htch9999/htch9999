@@ -2,8 +2,9 @@
 <h1 align="center">✨ Xin chào, mình là htch9999 ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Lập+trình+vì+đam+mê!;Yêu+AI%2C+web+và+những+dự+án+công+nghệ!;Welcome+to+my+GitHub+🌸" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=L%E1%BA%ADp%20tr%C3%ACnh%20v%C3%AC%20%C4%91am%20m%C3%AA%21;Y%C3%AAu%20AI%2C%20web%20v%C3%A0%20nh%E1%BB%AFng%20d%E1%BB%B1%20%C3%A1n%20c%C3%B4ng%20ngh%E1%BB%87%21;Welcome%20to%20my%20GitHub%20%F0%9F%8C%B8" alt="Typing SVG" />
 </p>
+
 
 ---
 
