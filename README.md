@@ -8,10 +8,10 @@
 
 ---
 
-### 🧠 Về mình
-- 💻 Đam mê công nghệ, đặc biệt là AI, cùng với sở thích thập cẩm, đam mê to lớn (mỗi tội lười)
-- ⚙️ Kĩ năng: **Python, C++, JavaScript, Node.js, Arduino**  
-- 🎯 Mục tiêu: Trở thành tỉ phú
+### Về mình
+- 💻 Đam mê công nghệ, đặc biệt là AI, cùng với sở thích thập cẩm, đam mê to lớn (mỗi tội lười).
+- ⚙️ Kĩ năng: **Python, C++, JavaScript, Node.js, Arduino**  .
+- 🎯 Mục tiêu: Trở thành tỉ phú :)).
 
 ---
 
