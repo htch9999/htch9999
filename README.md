@@ -43,11 +43,6 @@
 
 ---
 
-### 🌠 Quote ngẫu nhiên trong ngày
-> _${{ env.RANDOM_QUOTE }}_
-
----
-
 ### 🧩 Liên hệ & mạng xã hội
 <p align="center">
   <a href="https://facebook.com/htch.9999"><img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook" /></a>
