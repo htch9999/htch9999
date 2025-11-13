@@ -1,0 +1,37 @@
+name: 🌠 Update Random Quote
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Cập nhật mỗi ngày lúc 0h UTC (7h sáng VN)
+  workflow_dispatch:     # Cho phép chạy thủ công
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Lấy quote ngẫu nhiên
+        id: get_quote
+        run: |
+          QUOTES=(
+            "Cuộc sống giống như code, càng debug nhiều càng trưởng thành."
+            "Đừng sợ thất bại — mỗi lần lỗi là một lần học!"
+            "Đam mê là ngôn ngữ lập trình của thành công."
+            "Không có lỗi nào không sửa được, chỉ có người không chịu thử."
+            "AI không thay thế con người, nhưng sẽ giúp con người mạnh hơn."
+          )
+          echo "RANDOM_QUOTE=${QUOTES[$RANDOM % ${#QUOTES[@]}]}" >> $GITHUB_ENV
+
+      - name: Cập nhật README
+        run: |
+          sed -i "s/> _.*_/> _${{ env.RANDOM_QUOTE }}_/" README.md
+
+      - name: Commit & Push
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add README.md
+          git commit -m "✨ Update random quote"
+          git push
