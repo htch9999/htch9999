@@ -25,7 +25,7 @@
 
 ### 🧰 Kỹ năng & Công cụ
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,nodejs,react,arduino,html,css,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,nodejs,arduino,html,css,git,vscode" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ### 🧩 Liên hệ & mạng xã hội
 <p align="center">
   <a href="https://facebook.com/htch.9999"><img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook" /></a>
-  <a href="https://github.com/htch9999"><img src="https://img.shields.io/badge/GitHub-YuukiAzami-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/htch9999"><img src="https://img.shields.io/badge/GitHub-htch99999-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
