@@ -2,7 +2,7 @@
 <h1 align="center">✨ Xin chào, mình là htch9999 ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=L%E1%BA%ADp%20tr%C3%ACnh%20v%C3%AC%20%C4%91am%20m%C3%AA%21;Y%C3%AAu%20AI%2C%20web%20v%C3%A0%20nh%E1%BB%AFng%20d%E1%BB%B1%20%C3%A1n%20c%C3%B4ng%20ngh%E1%BB%87%21;Welcome%20to%20my%20GitHub%20%F0%9F%8C%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&lines=Hello+World!;I'm+htch;Bug+kh%C3%B4ng+t%E1%BB%B1+nhi%C3%AAn+sinh+ra%2C+c%C5%A9ng+kh%C3%B4ng+t%E1%BB%B1+m%E1%BA%A5t+%C4%91i...;N%C3%B3+ch%E1%BB%89+chuy%E1%BB%83n+t%E1%BB%AB+bug+n%C3%A0y+sang+bug+kh%C3%A1c+m%C3%A0+th%C3%B4i.;99%2B+bugs+in+the+code%2C+please+fix+it+quickly%2C+or+shut+down+u+PC+and+go+to+sleep!" />
 </p>
 
 
